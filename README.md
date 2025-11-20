@@ -5,7 +5,7 @@
 
 ### New Features
 - Significantly optimized response speed for GPT Series.
-- Added truncation function to reduce error possibilities.([Technical Details](supplyment/11-20-2025-truncation_filter.md))
+- Added truncation function to reduce error possibilities.([Technical Details](supplyment/11-20-2025-truncation-filter.md))
 
 ### More Details
 - Optimized response speed for GPT 4o/4.1/5/5.1 models.

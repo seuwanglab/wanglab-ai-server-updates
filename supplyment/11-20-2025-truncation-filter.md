@@ -1,3 +1,4 @@
+```python
 import tiktoken
 from pydantic import BaseModel, Field
 from typing import Optional, Callable, Any, Awaitable
@@ -337,3 +338,4 @@ class Filter:
             turns.append(current_turn)
 
         return turns
+```
