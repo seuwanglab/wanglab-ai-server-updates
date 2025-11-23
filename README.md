@@ -10,8 +10,7 @@
 - Introduced the "Thinking Switch" feature  
 
 ### More Details
-- Added [Qwen-3-VL-32B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct)  
-  and [GPT-OSS-120B](https://huggingface.co/openai/gpt-oss-120b) as two local models.  
+- Added [Qwen-3-VL-32B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct) and [GPT-OSS-120B](https://huggingface.co/openai/gpt-oss-120b) as two local models.  
     - Fully localized data processing
     - Maximum privacy protection 
 
